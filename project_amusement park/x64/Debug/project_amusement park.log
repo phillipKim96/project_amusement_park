@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\phillip.Kim\source\repos\project_amusement park\project_amusement park\ticket_price.h(8): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\phillip.Kim\source\repos\project_amusement park\project_amusement park\ticket_price.h(8,15): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\phillip.Kim\source\repos\project_amusement park\project_amusement park\ticket_price.h(9): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\phillip.Kim\source\repos\project_amusement park\project_amusement park\ticket_price.h(9,18): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\phillip.Kim\source\repos\project_amusement park\project_amusement park\ticket_price.h(10): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\phillip.Kim\source\repos\project_amusement park\project_amusement park\ticket_price.h(10,18): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\phillip.Kim\source\repos\project_amusement park\project_amusement park\ticket_price.h(11): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\phillip.Kim\source\repos\project_amusement park\project_amusement park\ticket_price.h(11,16): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  project_amusement park.vcxproj -> C:\Users\phillip.Kim\source\repos\project_amusement park\x64\Debug\project_amusement park.exe
