@@ -7,14 +7,13 @@
 class Ticket
 {
 protected:
+	int choice;
+	int baby, children, teenager, adult, sinior;
 	std::string Ticketdaynight[3] = {
 		"잘못된 선택입니다. 다시 입력해 주세요.",
 		"주간권",
 		"야간권"
 	};
-	int id[13];
-	int choice;
-
 
 public:
 	std::string getticketChoice(int choice) {
@@ -40,20 +39,5 @@ public:
 			std::cin.clear();
 			std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
 		}
-	}
-
-
-	void age() {
-		std::cout << "=================" << '\n';
-		std::cout << "주민 번호를 입력하세요." << '\n';
-		//std::cin >> id[13];
-		for (int i = 0; i < 13; i++) {
-			scanf_s("%1d",&id[i]);
 		}
-		for (int i = 0; i < 13; i++) {
-			std::cout << id[i];
-		}
-		std::cout << "=================" << '\n';
-	}
-
-};
+	};

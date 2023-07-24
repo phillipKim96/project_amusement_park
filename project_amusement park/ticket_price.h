@@ -4,7 +4,7 @@
 
 class Ticket_price
 {
-protected:
+private:
 	char adult = 56000;
 	char teenager = 47000;
 	char children = 44000;
